@@ -1,4 +1,4 @@
-# #AdoptMePhilly [@AdoptMePhilly](https://twitter.com/AdoptMePhilly)
+# AdoptMePhilly [@AdoptMePhilly](https://twitter.com/AdoptMePhilly)
 
 A twitter bot that posts a random adoptable pet from PetHarbor.com shelter(s).
 
@@ -24,11 +24,11 @@ Tweeting at [@AdoptMePhilly](https://twitter.com/AdoptMePhilly).
 
 ### Installation
 
-- Clone the repo `git clone git@github.com:open-austin/CutePetsAustin.git`
+- Clone the repo
 - Configure `credentials.py` with your PetHarbor.com Shelter ID(s), Twitter API Key and Access Token:
 	
 ```py
-shelters = ['MNTG', 'MNTG1']  # PetHarbor.com shelter IDs
+shelters = ['XXXX', 'XXXX']  # PetHarbor.com shelter IDs
 twitter_api_key = 'XXXXX'
 twitter_api_secret = 'XXXXX'
 twitter_access_token = 'XXXXX'
